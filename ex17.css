@@ -4,13 +4,17 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 29 sept. 2022, 15:46:53
+    Created on : 6 oct. 2022, 14:36:16
     Author     : guillaume.reeves
 */
-#menu {
-    position: absolute;
-    top: 90px;
-    left: 5px;
-    width: auto;
+#menu>ul{
+    list-style-type: none;
 }
 
+#menu>ul>li {
+    padding: 5px;
+    background-color:aqua ;
+    border-radius: 5px;
+    margin: 5px;
+    width: 50px;
+}
