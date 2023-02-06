@@ -28,3 +28,11 @@ li a {
 li a:hover {
   background-color: darkgoldenrod;
 }
+
+body {
+    color: #ffffff;
+}
+
+body {
+  background-image: url('fond_simple.jpg');
+}
