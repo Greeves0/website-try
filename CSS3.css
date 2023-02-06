@@ -1,0 +1,30 @@
+body {
+  background-image: url('path/to/image.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fcba03;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding: 35px 45px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: darkgoldenrod;
+}
