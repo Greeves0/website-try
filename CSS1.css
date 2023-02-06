@@ -36,3 +36,7 @@ body {
 body {
   background-image: url('fond_simple.jpg');
 }
+
+.video-container {
+  text-align: center;
+}
